@@ -1,0 +1,18 @@
+{
+  "persons": [
+    {
+      "firstName": "Rares",
+      "lastName": "M",
+      "sex": "male",
+      "age": 23,
+      "id": "1534826205314"
+    },
+    {
+      "firstName": "Mihai",
+      "lastName": "M",
+      "sex": "male",
+      "age": 40,
+      "id": "1534826216660"
+    }
+  ]
+}
